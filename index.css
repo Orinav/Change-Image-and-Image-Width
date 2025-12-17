@@ -1,0 +1,27 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: Calibri, sans-serif;
+    margin: 3em 0 0 3em;
+    background: silver;
+}
+
+button
+{
+    height: 2em;
+    width: 5em
+}
+
+#image
+{
+    width: 20em;
+}
+
+#sasuke_img
+{
+    width: 20em;
+}
